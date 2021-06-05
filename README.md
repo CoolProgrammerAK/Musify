@@ -38,8 +38,8 @@ Get an overview of Firebase, how to create a project, what kind of features Fire
 
 ### Screenshots
 
-![Splash screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png?raw=true)
-![Home screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/home.png?raw=true)
+![Splash screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png)
+![Home screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/home.png)
 
 
 
