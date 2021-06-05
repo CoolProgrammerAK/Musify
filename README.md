@@ -37,14 +37,13 @@ Get an overview of Firebase, how to create a project, what kind of features Fire
  
 
 ### Screenshots
-<img width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-
-<img width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-<img width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-<img" width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-<img width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-<img width="400" alt="Splash Screen" height="1000" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
-
+<img width="400" alt="Splash Screen" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png" />
+<img width="400" alt="Home Screen" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/home.png" />
+<img width="400" alt="Search Screen" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/search%20with%20popular%20singers.png" />
+<img width="400" alt="Playlist Screen" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/playlist.png" />
+<img width="400" alt="Video Player" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/music%20player.png" />
+<img width="400" alt="Search results" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/search%20results.png" />
+<img width="400" alt="Add new playlist" height="800" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/add_playlist.png" />
 
 
 
