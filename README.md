@@ -37,8 +37,8 @@ Get an overview of Firebase, how to create a project, what kind of features Fire
  
 
 ### Screenshots
+<img align="left" width="100" alt="Splash Screen" height="100" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png">
 
-![Splash screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash_screen.png)
 ![Home screen](https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/home.png)
 
 
