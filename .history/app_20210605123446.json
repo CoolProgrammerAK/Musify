@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "spotify",
+    "slug": "spotify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000",
+      "width":"100px",
+      "height":"100px"
+    },
+    "android": {
+      "package": "com.example.spotify",
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
