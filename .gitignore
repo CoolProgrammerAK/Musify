@@ -12,5 +12,5 @@ web-build/
 # macOS
 .DS_Store
 
-.expo-shared/*
-.history/*
+/.expo-shared
+/.history
